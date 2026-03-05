@@ -1,0 +1,7 @@
+backend/vendor/
+backend/.env
+backend/database/database.sqlite
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+.claude/
